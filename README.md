@@ -13,7 +13,7 @@ Music used to be an event. You'd put on a record or a CD, sit with it, and exper
 - **No resampling** — Audio is played bit-perfect, exactly as it was recorded. What you hear is what was intended.
 - **No hidden EQ or normalization** — Zero coloration. No loudness normalization, no "smart" EQ curves applied behind your back.
 - **Album-focused playback** — When an album ends, it ends. You have to consciously load the next one. No auto-queue, no endless play.
-- **No album artwork** — Deliberately left out. The focus is the music itself, not the visual dressing around it.
+
 
 ## Why RedCorn?
 
